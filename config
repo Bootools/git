@@ -1,0 +1,7 @@
+[user]
+	name = Blind Tear
+	email = blindtear@blindtear.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
